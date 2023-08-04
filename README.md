@@ -1,2 +1,1 @@
-# kie-roadmap
-this is a repository to track IBM work (Issues and Project) with the KIE community!
+This is a repository to track issues for BAMOE!
