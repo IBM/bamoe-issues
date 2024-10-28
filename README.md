@@ -1,1 +1,1 @@
-This is a repository to track issues for BAMOE!
+This repository has been archived. Please refer to https://github.com/ibm/bamoe
